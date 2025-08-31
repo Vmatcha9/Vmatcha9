@@ -1,5 +1,4 @@
-## Hi there 👋 I am Vaishnavi. 
-# Hi, I'm Vmatcha9 👋
+# Hi there 👋 I am Vaishnavi. 
 
 - 🔭 I’m currently working on AI/ML Projects and looking forward get acceptable accuracy.
 - 🌱 I’m currently learning ML 
