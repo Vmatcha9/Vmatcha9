@@ -1,7 +1,7 @@
 # Hi there 👋 I am Vaishnavi. 
 
-- 🔭 I’m currently working on AI/ML Projects and looking forward get acceptable accuracy.
-- 🌱 I’m currently learning ML 
+- 🔭 I’m currently working on AI/ML Projects and looking forward to get acceptable accuracy.
+- 🌱 I’m currently learning ML. 
 - 👯 I’m looking to collaborate on Projects with real life applications that are meaningful and make lives easier. 
 - 🤔 I’m looking for help with the most random things sometimes.
 - 😄 Pronouns: She/her
